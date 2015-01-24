@@ -1,0 +1,4 @@
+usage: all-the-links [FILE]
+
+    Return newline delimited list of urls found in
+    the provided HTML.

@@ -1,0 +1,39 @@
+{
+  "name": "all-the-links",
+  "version": "1.0.0",
+  "description": "Parse all links from HTML input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape tests/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/derekr/all-the-links"
+  },
+  "author": "Derek Reynolds <derekr@me.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/derekr/all-the-links/issues"
+  },
+  "homepage": "https://github.com/derekr/all-the-links",
+  "tags": [
+    "html",
+    "parse",
+    "urls",
+    "url",
+    "links"  
+  ],
+  "dependencies": {
+    "duplexer2": "0.0.2",
+    "html-select": "^2.3.23",
+    "html-tokenize": "^1.2.5",
+    "minimist": "^1.1.0",
+    "string-to-stream": "^1.0.0",
+    "through2": "^0.6.3"
+  },
+  "devDependencies": {
+    "concat-stream": "^1.4.7",
+    "split": "^0.3.2",
+    "tape": "^3.4.0"
+  }
+}
