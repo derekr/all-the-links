@@ -1,4 +1,4 @@
-# all-the-links
+# all-the-links [![Build Status](https://travis-ci.org/derekr/all-the-links.svg?branch=master)](https://travis-ci.org/derekr/all-the-links)
 
 Parse all links from HTML input.
 
