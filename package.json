@@ -1,10 +1,10 @@
 {
   "name": "all-the-links",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Parse all links from HTML input.",
   "main": "index.js",
   "bin": {
-      "all-the-links": "bin/cmd.js"
+    "all-the-links": "bin/cmd.js"
   },
   "scripts": {
     "test": "tape tests/**/*.js"
