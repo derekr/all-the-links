@@ -16,12 +16,12 @@
     "url": "https://github.com/derekr/all-the-links/issues"
   },
   "homepage": "https://github.com/derekr/all-the-links",
-  "tags": [
+  "keywords": [
     "html",
     "parse",
     "urls",
     "url",
-    "links"  
+    "links"
   ],
   "dependencies": {
     "duplexer2": "0.0.2",
